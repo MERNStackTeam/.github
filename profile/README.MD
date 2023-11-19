@@ -4,13 +4,14 @@ Welcome to the official GitHub repository of The MERN Stack Team! Here you'll fi
 
 ## Developers
 
-### [Jinto Antony](https://github.com/JintoAntony/jintoantony.github.io)
+### [Jinto Antony](https://jintoantony.github.io)
 
 - **Role:** Senior Software Engineer
 - **Bio:** Passionate about software development with a focus on backend technologies. Enthusiastic about open-source projects and contributing to the developer community.
 - **Skills:** Java, Spring Boot, SQL, RESTful APIs
 - **Contact:** jinto1729@gmail.com, +91 9895-780759
 - [LinkedIn](https://www.linkedin.com/in/jintoantony/)
+- [GitHub](https://github.com/JintoAntony/)
 
 ### [Ano Joseph](Link to Ano Joseph's GitHub Profile)
 
