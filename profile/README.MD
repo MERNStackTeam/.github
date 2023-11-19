@@ -1,15 +1,15 @@
-# Organization Name
+# The MERN Stack Team
 
-Welcome to the official GitHub repository of [Organization Name]! Here you'll find our team of developers and their contributions.
+Welcome to the official GitHub repository of The MERN Stack Team! Here you'll find our team of developers and their contributions.
 
 ## Developers
 
-### [Jinto Antony](Link to Jinto Antony's GitHub Profile)
+### [Jinto Antony](https://github.com/JintoAntony)
 
 - **Role:** Senior Software Engineer
 - **Bio:** Passionate about software development with a focus on backend technologies. Enthusiastic about open-source projects and contributing to the developer community.
 - **Skills:** Java, Spring Boot, SQL, RESTful APIs
-- **Contact:** jinto@example.com
+- **Contact:** jinto1729@gmail.com
 
 ### [Ano Joseph](Link to Ano Joseph's GitHub Profile)
 
