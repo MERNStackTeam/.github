@@ -13,7 +13,7 @@ Welcome to the official GitHub repository of The MERN Stack Team! Here you'll fi
 - **LinkedIn:** [Click here](https://www.linkedin.com/in/jintoantony/)
 - **GitHub:** [Click here](https://github.com/JintoAntony/)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ano Joseph](Link to Ano Joseph's GitHub Profile)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ano Joseph](https://anojoseph.github.io)
 
 - **Role:** Frontend Developer
 - **Bio:** Creative frontend developer specializing in modern web technologies. Proficient in building responsive and user-friendly interfaces.
