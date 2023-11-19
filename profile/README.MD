@@ -23,9 +23,11 @@ Welcome to the official GitHub repository of The MERN Stack Team! Here you'll fi
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Shilpa C Venugopal](Link to Shilpa C Venugopal's GitHub Profile)
 
 - **Role:** Backend Developer
-- **Bio:** Experienced in full-stack development with a focus on scalable and efficient solutions. Enjoys problem-solving and collaborating on innovative projects.
-- **Skills:** Python, Django, JavaScript, React.js
-- **Contact:** shilpa@example.com
+- **Bio:** Passionate backend developer with a knack for turning ideas into scalable, efficient code.I specialize in crafting robust server-side solutions, database architecture, and API development. A problem solver at heart, I thrive on optimizing processes and building high-performance applications. Eager to contribute my skills to innovative projects and collaborate with like-minded teams
+- **Skills:** Python, Django, Flask , Database: PostgreSQL, Mongodb. Web Servers: Ngnix, Version Control Systems:GIt and GitHub , GitLab
+- **Contact:**shilpacvenugopal1997@gmail.com
+- **LinkedIn:** [Click here](https://www.linkedin.com/in/shilpa-c-a3874017a/)
+- **GitHub:** [Click here](https://github.com/shilpacvenugopal)
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Godwin T James](https://godwintjames.github.io)
 
