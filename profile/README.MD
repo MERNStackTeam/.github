@@ -18,7 +18,7 @@ Welcome to the official GitHub repository of The MERN Stack Team! Here you'll fi
 - **Role:** Frontend Developer
 - **Bio:** Creative frontend developer specializing in modern web technologies. Proficient in building responsive and user-friendly interfaces.
 - **Skills:** HTML, CSS, JavaScript, React.js, Vue.js
-- **Contact:** ano@example.com
+- **Contact:** anojoseph2011@gmail.com
 
 ### [Shilpa C Venugopal](Link to Shilpa C Venugopal's GitHub Profile)
 
