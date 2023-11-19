@@ -2,7 +2,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome to the official GitHub repository of The MERN Stack Team! Here you'll find our team of developers and their contributions.
 
-## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Developers]()
+## [Developers]()
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Jinto Antony](https://jintoantony.github.io)
 
