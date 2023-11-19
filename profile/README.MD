@@ -27,12 +27,12 @@ Welcome to the official GitHub repository of The MERN Stack Team! Here you'll fi
 - **Skills:** Python, Django, JavaScript, React.js
 - **Contact:** shilpa@example.com
 
-### [Godwin T James](Link to Godwin T James's GitHub Profile)
+### [Godwin T James](https://godwintjames.github.io)
 
-- **Role:** Backend Developer
-- **Bio:** Backend developer with expertise in crafting robust and scalable server-side applications. Keen on exploring new technologies and architectures.
-- **Skills:** Node.js, Express.js, MongoDB, RESTful APIs
-- **Contact:** godwin@example.com
+- **Role:** Frontend Developer
+- **Bio:** Creative frontend developer specializing in modern web technologies. Proficient in building responsive and user-friendly interfaces.
+- **Skills:** HTML, CSS, JavaScript, Typescript, React.js, Vue.js
+- **Contact:** godwintjames1@gmail.com
 
 ### [Amal Raj KD](Link to Amal Raj KD's GitHub Profile)
 
