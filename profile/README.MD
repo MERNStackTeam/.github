@@ -22,7 +22,7 @@ Welcome to the official GitHub repository of The MERN Stack Team! Here you'll fi
 
 ### [Shilpa C Venugopal](Link to Shilpa C Venugopal's GitHub Profile)
 
-- **Role:** Software Developer
+- **Role:** Backend Developer
 - **Bio:** Experienced in full-stack development with a focus on scalable and efficient solutions. Enjoys problem-solving and collaborating on innovative projects.
 - **Skills:** Python, Django, JavaScript, React.js
 - **Contact:** shilpa@example.com
