@@ -10,8 +10,8 @@ Welcome to the official GitHub repository of The MERN Stack Team! Here you'll fi
 - **Bio:** Passionate about software development with a focus on backend technologies. Enthusiastic about open-source projects and contributing to the developer community.
 - **Skills:** Java, Spring Boot, SQL, RESTful APIs
 - **Contact:** jinto1729@gmail.com, +91 9895-780759
-- **LinkedIn:** [<i class="fa fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/jintoantony/)
-- [GitHub](https://github.com/JintoAntony/)
+- **LinkedIn:** [link](https://www.linkedin.com/in/jintoantony/)
+- **GitHub:** [link](https://github.com/JintoAntony/)
 
 ### [Ano Joseph](Link to Ano Joseph's GitHub Profile)
 
@@ -47,6 +47,8 @@ Welcome to the official GitHub repository of The MERN Stack Team! Here you'll fi
 - **Bio:** Creative UI/UX designer specializing in crafting intuitive and visually appealing user interfaces. Focuses on enhancing user experience through design.
 - **Skills:** Adobe XD, Figma, User Research, Prototyping
 - **Contact:** tilviya@example.com
+- **Behance:** [link](https://www.linkedin.com/in/jintoantony/)
+- **Figma Community:**[GitHub](https://github.com/JintoAntony/)
 
 ## Projects and Contributions
 
