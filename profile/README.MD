@@ -4,33 +4,33 @@ Welcome to the official GitHub repository of [Organization Name]! Here you'll fi
 
 ## Developers
 
-### [Developer Name 1](Link to Developer 1's GitHub Profile)
+### [Jinto Antony](Link to Jinto Antony's GitHub Profile)
 
-- **Role:** [Role/Position]
-- **Bio:** [Short bio or description about Developer 1]
-- **Skills:** [List of skills or expertise]
-- **Contact:** [Email or any contact information]
+- **Role:** Senior Software Engineer
+- **Bio:** Passionate about software development with a focus on backend technologies. Enthusiastic about open-source projects and contributing to the developer community.
+- **Skills:** Java, Spring Boot, SQL, RESTful APIs
+- **Contact:** jinto@example.com
 
-### [Developer Name 2](Link to Developer 2's GitHub Profile)
+### [Ano Joseph](Link to Ano Joseph's GitHub Profile)
 
-- **Role:** [Role/Position]
-- **Bio:** [Short bio or description about Developer 2]
-- **Skills:** [List of skills or expertise]
-- **Contact:** [Email or any contact information]
-
-<!-- Repeat the above structure for each developer -->
+- **Role:** Frontend Developer
+- **Bio:** Creative frontend developer specializing in modern web technologies. Proficient in building responsive and user-friendly interfaces.
+- **Skills:** HTML, CSS, JavaScript, React.js, Vue.js
+- **Contact:** ano@example.com
 
 ## Projects and Contributions
 
 Here are some of the notable projects and contributions from our team:
 
-- **Project 1:** Brief description or link to the project/repository.
-- **Contributions:** Mention specific contributions by developers.
+- **Project 1:** [Project Name](Link to Project 1)
+  - Contributions:
+    - Jinto Antony: Implemented backend APIs using Spring Boot
+    - Ano Joseph: Developed the frontend user interface using React.js
 
-- **Project 2:** Brief description or link to the project/repository.
-- **Contributions:** Mention specific contributions by developers.
-
-<!-- Add more projects and contributions as needed -->
+- **Project 2:** [Another Project](Link to Project 2)
+  - Contributions:
+    - Ano Joseph: Designed and implemented responsive UI components
+    - Jinto Antony: Optimized database queries and improved backend performance
 
 ## How to Contribute
 
@@ -55,4 +55,3 @@ We'd like to thank all our contributors and supporters for their valuable contri
 ## Support
 
 For any inquiries or support, feel free to contact us at [email@example.com].
-
