@@ -1,4 +1,4 @@
-# The MERN Stack Team
+# The MERN Stack [Team](https://mernstackteam.github.io)
 ## Visit our team profile : [link](https://mernstackteam.github.io)
 
 Welcome to the official GitHub repository of The MERN Stack Team! Here you'll find our team of developers and their contributions.
