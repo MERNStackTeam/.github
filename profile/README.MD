@@ -13,14 +13,14 @@ Welcome to the official GitHub repository of The MERN Stack Team! Here you'll fi
 - **LinkedIn:** [link](https://www.linkedin.com/in/jintoantony/)
 - **GitHub:** [link](https://github.com/JintoAntony/)
 
-### [Ano Joseph](Link to Ano Joseph's GitHub Profile)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ano Joseph](Link to Ano Joseph's GitHub Profile)
 
 - **Role:** Frontend Developer
 - **Bio:** Creative frontend developer specializing in modern web technologies. Proficient in building responsive and user-friendly interfaces.
 - **Skills:** HTML, CSS, JavaScript, React.js, Vue.js
 - **Contact:** anojoseph2011@gmail.com
 
-### [Shilpa C Venugopal](Link to Shilpa C Venugopal's GitHub Profile)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Shilpa C Venugopal](Link to Shilpa C Venugopal's GitHub Profile)
 
 - **Role:** Backend Developer
 - **Bio:** Experienced in full-stack development with a focus on scalable and efficient solutions. Enjoys problem-solving and collaborating on innovative projects.
@@ -34,14 +34,14 @@ Welcome to the official GitHub repository of The MERN Stack Team! Here you'll fi
 - **Skills:** HTML, CSS, JavaScript, Typescript, React.js, Vue.js
 - **Contact:** godwintjames1@gmail.com
 
-### [Amal Raj KD](Link to Amal Raj KD's GitHub Profile)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Amal Raj KD](Link to Amal Raj KD's GitHub Profile)
 
 - **Role:** DevOps Engineer
 - **Bio:** Skilled in automating, deploying, and maintaining scalable infrastructure. Passionate about streamlining development workflows and ensuring efficient operations.
 - **Skills:** Docker, Kubernetes, CI/CD, AWS
 - **Contact:** amal@example.com
 
-### [Tilviya Thomas](Link to Tilviya Thomas's GitHub Profile)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tilviya Thomas](Link to Tilviya Thomas's GitHub Profile)
 
 - **Role:** UI/UX Designer
 - **Bio:** Creative UI/UX designer specializing in crafting intuitive and visually appealing user interfaces. Focuses on enhancing user experience through design.
