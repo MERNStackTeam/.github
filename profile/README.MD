@@ -104,4 +104,4 @@ We'd like to thank all our contributors and supporters for their valuable contri
 
 ## Support
 
-For any inquiries or support, feel free to contact us at [email@example.com].
+For any inquiries or support, feel free to contact us at [MERNStackTeam@gmail.com].
