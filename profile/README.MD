@@ -51,7 +51,7 @@ Welcome to the official page of The MERN Stack Team! Here you'll find our team o
 - **Skills:** Adobe XD, Figma, User Research, Prototyping
 - **Contact:** tilviyathomas17@gmail.com
 - **Behance:** [Click here](https://www.behance.net/tilviyamarythomas/)
-- **Figma Community:**[Click here](https://www.figma.com/@tilviya)
+- **Figma Community:** [Click here](https://www.figma.com/@tilviya)
 
 ## Projects and Contributions
 
