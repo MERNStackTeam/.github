@@ -49,9 +49,9 @@ Welcome to the official page of The MERN Stack Team! Here you'll find our team o
 - **Role:** UI/UX Designer
 - **Bio:** Creative UI/UX designer specializing in crafting intuitive and visually appealing user interfaces. Focuses on enhancing user experience through design.
 - **Skills:** Adobe XD, Figma, User Research, Prototyping
-- **Contact:** tilviya@example.com
-- **Behance:** [link](https://www.linkedin.com/in/jintoantony/)
-- **Figma Community:**[GitHub](https://github.com/JintoAntony/)
+- **Contact:** tilviyathomas17@gmail.com
+- **Behance:** [Click here](https://www.behance.net/tilviyamarythomas/)
+- **Figma Community:**[Click here](https://www.figma.com/@tilviya)
 
 ## Projects and Contributions
 
