@@ -57,15 +57,27 @@ Welcome to the official page of The MERN Stack Team! Here you'll find our team o
 
 Here are some of the notable projects and contributions from our team:
 
-- **Project 1:** [Project Name](Link to Project 1)
+- **Project 1:** [Mern-Stack-Starter-Server](https://github.com/MERNStackTeam/Mern-Stack-Starter-Server.git)
   - Contributions:
-    - Jinto Antony: Implemented backend APIs using Spring Boot
+    - Jinto Antony: Implemented backend APIs using Node.js, Express.js
+    - Shilpa C Venugopal: Developed the frontend user interface using React.js
     - Ano Joseph: Developed the frontend user interface using React.js
 
-- **Project 2:** [Another Project](Link to Project 2)
+- **Project 2:** [Mern-Stack-Starter-Client](https://github.com/MERNStackTeam/Mern-Stack-Starter-Client.git)
   - Contributions:
+    - Jinto Antony: Implemented backend APIs using Node.js, Express.js
+    - Shilpa C Venugopal: Developed the frontend user interface using React.js
+    - Ano Joseph: Developed the frontend user interface using React.js
+
+- **Project 3:** [OpeanAI-Service](https://github.com/MERNStackTeam/OpenAI-Service.git)
+  - Contributions:
+    - Jinto Antony: Implemented backend APIs using Node.js, Express.js
+    - AmalRaj KD: Implemented core functionality using Django and React.js    
     - Shilpa C Venugopal: Implemented core functionality using Django and React.js
     - Godwin T James: Optimized backend services for improved performance
+
+- **Project 4:** [UI-UX-Designs](https://github.com/MERNStackTeam/UI-UX-Designs.git)
+  - Contributions:
     - Tilviya Thomas: Designed and enhanced user interface elements
 
 <!-- Add more projects and contributions as necessary -->
