@@ -6,7 +6,7 @@ Welcome to the official page of The MERN Stack Team! Here you'll find our team o
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Jinto Antony](https://jintoantony.github.io)
 
-- **Role:** Software Engineer
+- **Role:** Software Engineer with over 10 years of experience
 - **Bio:** Passionate about software development with a focus on backend technologies. Enthusiastic about open-source projects and contributing to the developer community.
 - **Skills:** Programming Languages · Agile · Open AI · Full Stack · Python · Django · Java Script · Node.js · React.js · Vue.js · Angular · ReactNative · PHP · Laravel · Java · Spring · Hibernate · Database Systems · PostgreSQL · MySQL · Elastic Search · MongoDB · DevOps · Docker · Jenkins · Kubernetes · Artificial Intelligence · Machine Learning
 - **Contact:** jinto1729@gmail.com, +91 9895-780759
