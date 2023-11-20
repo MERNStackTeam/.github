@@ -69,7 +69,7 @@ Here are some of the notable projects and contributions from our team:
     - Shilpa C Venugopal: Developed the frontend user interface using React.js
     - Ano Joseph: Developed the frontend user interface using React.js
 
-- **Project 3:** [OpeanAI-Service](https://github.com/MERNStackTeam/OpenAI-Service.git)
+- **Project 3:** [OpenAI-Service](https://github.com/MERNStackTeam/OpenAI-Service.git)
   - Contributions:
     - Jinto Antony: Implemented backend APIs using Node.js, Express.js
     - AmalRaj KD: Implemented core functionality using Django and React.js    
