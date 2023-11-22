@@ -15,9 +15,9 @@ Welcome to the official page of The MERN Stack Team! Here you'll find our team o
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ano Joseph](https://anojoseph.github.io)
 
-- **Role:** Frontend Developer
-- **Bio:** Creative frontend developer specializing in modern web technologies. Proficient in building responsive and user-friendly interfaces.
-- **Skills:** HTML, CSS, JavaScript, React.js, Vue.js, Angular
+- **Role:** Software Developer 
+- **Bio:** Creative frontend developer specializing in modern web technologies. Proficient in building responsive and user-friendly interfaces. Eager to contribute my skills to innovative projects and collaborate with like-minded teams.
+- **Skills:** HTML, CSS, JavaScript, React.js, Vue.js, Angular, Version control, Code Optimization
 - **Contact:** anojoseph2011@gmail.com
 - **LinkedIn:** [Click here](https://www.linkedin.com/in/ano-joseph/)
 - **GitHub:** [Click here](https://github.com/anojoseph)
