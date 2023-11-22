@@ -15,7 +15,7 @@ Welcome to the official page of The MERN Stack Team! Here you'll find our team o
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Ano Joseph](https://anojoseph.github.io)
 
-- **Role:** Software Developer 
+- **Role:** Software Engineer 
 - **Bio:** Creative frontend developer specializing in modern web technologies. Proficient in building responsive and user-friendly interfaces. Eager to contribute my skills to innovative projects and collaborate with like-minded teams.
 - **Skills:** HTML, CSS, JavaScript, React.js, Vue.js, Angular, Version control, Code Optimization
 - **Contact:** anojoseph2011@gmail.com
