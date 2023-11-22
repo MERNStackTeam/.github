@@ -22,7 +22,7 @@ Welcome to the official page of The MERN Stack Team! Here you'll find our team o
 - **LinkedIn:** [Click here](https://www.linkedin.com/in/ano-joseph/)
 - **GitHub:** [Click here](https://github.com/anojoseph)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Shilpa C Venugopal](Link to Shilpa C Venugopal's GitHub Profile)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Shilpa C Venugopal](https://shilpacvenugopal.github.io)
 - **Role:** Backend Developer
 - **Bio:** Passionate backend developer with a knack for turning ideas into scalable, efficient code.I specialize in crafting robust server-side solutions, database architecture, and API development. A problem solver at heart, I thrive on optimizing processes and building high-performance applications. Eager to contribute my skills to innovative projects and collaborate with like-minded teams
 - **Skills:** Python, Django, Flask , Database: PostgreSQL, Mongodb. Web Servers: Ngnix, Version Control Systems:GIt and GitHub , GitLab
