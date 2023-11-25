@@ -39,10 +39,10 @@ Welcome to the official page of The MERN Stack Team! Here you'll find our team o
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Amal Raj KD](Link to Amal Raj KD's GitHub Profile)
 
-- **Role:** DevOps Engineer
-- **Bio:** Skilled in automating, deploying, and maintaining scalable infrastructure. Passionate about streamlining development workflows and ensuring efficient operations.
-- **Skills:** Docker, Kubernetes, CI/CD, AWS
-- **Contact:** amal@example.com
+- **Role:**  Backend Developer
+- **Bio:** I'm an experienced Python Django developer specializing in web development. I'm skilled in the model-template-view architecture and have successfully worked on various projects, creating strong and scalable solutions. I'm enthusiastic about delivering excellent results and excited to bring my expertise to your next web project.
+- **Skills:** Python, Django, Flask , Database: PostgreSQL, Mongodb. Web Servers: Ngnix, Version Control Systems:Git and GitHub , GitLab
+- **Contact:** amalraj.personal@gmail.com
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tilviya Thomas](Link to Tilviya Thomas's GitHub Profile)
 
