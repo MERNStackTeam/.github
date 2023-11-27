@@ -1,6 +1,6 @@
 # [The MERN Stack Team](https://mernstackteam.github.io)
 
-Welcome to the official page of The MERN Stack Team! Here you'll find our team of developers and their contributions. We are available to hire at an hourly rate ranging between $70 to $100 per hour, offering expertise in MERN stack development and more.
+Welcome to the official page of The MERN Stack Team! Here you'll find our team of developers and their contributions.
 
 Our team formed on November 2023, and is dedicated to delivering top-notch solutions.
 
