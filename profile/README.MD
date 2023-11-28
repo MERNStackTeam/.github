@@ -39,14 +39,14 @@ Our team formed on November 2023, and is dedicated to delivering top-notch solut
 - **Skills:** HTML, CSS, JavaScript, Typescript, React.js, Vue.js
 - **Contact:** godwintjames1@gmail.com
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Amal Raj KD](Link to Amal Raj KD's GitHub Profile)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Amal Raj KD]
 
 - **Role:**  Backend Developer
 - **Bio:** I'm an experienced Python Django developer specializing in web development. I'm skilled in the model-template-view architecture and have successfully worked on various projects, creating strong and scalable solutions. I'm enthusiastic about delivering excellent results and excited to bring my expertise to your next web project.
 - **Skills:** Python, Django, Flask , Database: PostgreSQL, Mongodb. Web Servers: Ngnix, Version Control Systems:Git and GitHub , GitLab
 - **Contact:** amalraj.personal@gmail.com
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tilviya Thomas](Link to Tilviya Thomas's GitHub Profile)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Tilviya Thomas]
 
 - **Role:** UI/UX Designer
 - **Bio:** Creative UI/UX designer specializing in crafting intuitive and visually appealing user interfaces. Focuses on enhancing user experience through design.
