@@ -32,7 +32,7 @@ Our team formed on November 2023, and is dedicated to delivering top-notch solut
 - **LinkedIn:** [Click here](https://www.linkedin.com/in/shilpa-c-a3874017a/)
 - **GitHub:** [Click here](https://github.com/shilpacvenugopal)
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Godwin T James](https://godwintjames.github.io)
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Godwin T James]
 
 - **Role:** Frontend Developer
 - **Bio:** Creative frontend developer specializing in modern web technologies. Proficient in building responsive and user-friendly interfaces.
