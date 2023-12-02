@@ -46,7 +46,7 @@ Our team formed on November 2023, and is dedicated to delivering top-notch solut
 - **Skills:** Python, Django, Flask , Database: PostgreSQL, Mongodb. Web Servers: Ngnix, Version Control Systems:Git and GitHub , GitLab
 - **Contact:** amalraj.personal@gmail.com
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tilviya Thomas
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  [Tilviya Thomas](https://tilviya.github.io)
 
 - **Role:** UI/UX Designer
 - **Bio:** Creative UI/UX designer specializing in crafting intuitive and visually appealing user interfaces. Focuses on enhancing user experience through design.
