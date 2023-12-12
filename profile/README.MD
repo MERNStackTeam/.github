@@ -39,7 +39,7 @@ Our team formed on November 2023, and is dedicated to delivering top-notch solut
 - **Skills:** HTML, CSS, JavaScript, Typescript, React.js, Vue.js
 - **Contact:** godwintjames1@gmail.com
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Amal Raj KD
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Amal Raj KD](https://amalrajkd.github.io)
 
 - **Role:**  Backend Developer
 - **Bio:** I'm an experienced Python Django developer specializing in web development. I'm skilled in the model-template-view architecture and have successfully worked on various projects, creating strong and scalable solutions. I'm enthusiastic about delivering excellent results and excited to bring my expertise to your next web project.
