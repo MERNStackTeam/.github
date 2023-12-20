@@ -36,7 +36,7 @@ Our team formed on November 2023, and is dedicated to delivering top-notch solut
 
 - **Role:** Frontend Developer
 - **Bio:** Creative frontend developer specializing in modern web technologies. Proficient in building responsive and user-friendly interfaces.
-- **Skills:** HTML, CSS, JavaScript, Typescript, React.js, Vue.js
+- **Skills:** HTML, CSS, Angular, JavaScript, Typescript
 - **Contact:** godwintjames1@gmail.com
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Amal Raj KD](https://amalrajkd.github.io)
