@@ -27,7 +27,7 @@ Our team formed on November 2023, and is dedicated to delivering top-notch solut
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Shilpa C Venugopal](https://shilpacvenugopal.github.io)
 - **Role:** Backend Developer
 - **Bio:** Passionate backend developer with a knack for turning ideas into scalable, efficient code.I specialize in crafting robust server-side solutions, database architecture, and API development. A problem solver at heart, I thrive on optimizing processes and building high-performance applications. Eager to contribute my skills to innovative projects and collaborate with like-minded teams
-- **Skills:** Python, Django, Flask , Database: PostgreSQL, Mongodb. Web Servers: Ngnix, Version Control Systems:GIt and GitHub , GitLab
+- **Skills:** Python, Django, Flask , Database: PostgreSQL, Mongodb. Web Servers: Ngnix, Version Control Systems:GIt and GitHub , GitLab, IOT, Machine learning
 - **Contact:** shilpacvenugopal1997@gmail.com
 - **LinkedIn:** [Click here](https://www.linkedin.com/in/shilpa-c-a3874017a/)
 - **GitHub:** [Click here](https://github.com/shilpacvenugopal)
